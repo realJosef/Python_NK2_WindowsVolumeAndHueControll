@@ -1,0 +1,7 @@
+python-rtmidi
+pywin32
+playsound
+comtypes
+pycaw
+phue
+infi.systray
